@@ -114,9 +114,9 @@ const translations = {
     "choreo-fragile-title":  "fragile & useless",
     "choreo-fragile-desc":   "fragile & useless imagines a contemporary folk dance made in and of the era of hyperdigitization.",
     "choreo-limbic-title":   "limbic cum rag",
-    "choreo-limbic-desc":    "Explores the performer's body as a site of projection - literally and figuratively.",
-    "choreo-flesh-title":    "Flesh-Nexus, Human Sword",
-    "choreo-flesh-desc":     "AI-generated scores reimagine the space between us as a \"virtual social fascia\".",
+    "choreo-limbic-desc":    "Explores the performer's body as a site of projection.",
+    "choreo-flesh-title":    "Flesh-Nexus, HumaAI-generated scores n Sword",
+    "choreo-flesh-desc":     "Dancing interconnection in the perverse threshold between physical-digital entanglement.",
     "choreo-studies-title":  "Studies in Virtuality",
     "choreo-studies-desc":   "A collaborative multimedia project experimenting with forms of simulation.",
     "choreo-paradise-title": "Paradise",
@@ -146,15 +146,15 @@ const translations = {
 
     // --- FLESH-NEXUS ---
     "flesh-header":           "Flesh-Nexus, Human Sword (wip)",
-    "flesh-body-header":      "Blending digital logic into somatic practice, Flesh-Nexus, Human Sword uses AI-generated movement scores and meditations to explore interconnectedness, collective movement, and reimagining the space between us as a \"virtual social fascia\" - dancing in the perverse threshold between physical and digital entanglement.",
-    "flesh-p1":               "*In development",
+    "flesh-body-header":      "Flesh-Nexus, Human Sword mixes movement meditations with the logical capacities of generative AI to construct movement scores, blending digital logic and somatic practice to explore interconnectedness and collective movement. Reimagining the space between us as a \"virtual social fascia\", Flesh-Nexus, Human Sword dances in the perverse threshold between physical and digital entanglement.",
+    "flesh-support":          "Support the research <a href=\"support.html\"><b>HERE</b></a>!",
     // "flesh-p2":               "Creative Collaboration/Outside-eye: Katie Ward",
     // "flesh-p3":               "Dramaturgy/Sound Consultation: Jassem Hindi",
     // "flesh-p4":               "Interpreters:",
 
     // --- STUDIES IN VIRTUALITY ---
     "studies-header":         "Studies in Virtuality (wip)",
-    "studies-body-header":    "By experimenting with forms of simulation in various media, Studies in Virtuality explores death and dying through a live experience of virtuality - treating ordinary immaterialities as inconspicuous windows to the afterlife.",
+    "studies-body-header":    "Studies in Virtuality explores death and dying through experimentation with simulation in various media - treating ordinary immaterialities as inconspicuous windows to the afterlife.",
     "studies-p1":             "Direction, Choreography: Simon Portigal",
     "studies-p2":             "Collaborators: Justin de Luna, Jeremy Hervieux, Timothy Thomasson",
     "studies-p3":             "This project has currently benefitted from residencies at Parbleux and Studio 303.",
@@ -210,9 +210,9 @@ const translations = {
     "choreo-fragile-title":  "fragile & inutile",
     "choreo-fragile-desc":   "fragile & inutile imagine une danse folklorique contemporaine créée dans et de l'ère de l'hyperdigitalisation.",
     "choreo-limbic-title":   "limbic cum rag",
-    "choreo-limbic-desc":    "Explore le corps du performeur comme site de projection — littéralement et figurativement.",
+    "choreo-limbic-desc":    "Explore le corps du performeur comme site de projection.",
     "choreo-flesh-title":    "Flesh-Nexus, Human Sword",
-    "choreo-flesh-desc":     "Des partitions générées par IA réimaginent l'espace entre nous comme un « fascia social virtuel ».",
+    "choreo-flesh-desc":     "Interconnexion dansante au seuil pervers de l'enchevêtrement physique et numérique.",
     "choreo-studies-title":  "Études en Virtualité",
     "choreo-studies-desc":   "Un projet multimédia collaboratif expérimentant avec de la simulation.",
     "choreo-paradise-title": "Paradis",
@@ -242,15 +242,15 @@ const translations = {
 
     // --- FLESH-NEXUS ---
     "flesh-header":           "Flesh-Nexus, Human Sword (wip)",
-    "flesh-body-header":      "En intégrant la logique numérique à la pratique somatique, Flesh-Nexus, Human Sword utilise des partitions de mouvement et des méditations générées par IA pour explorer l'interconnexion, le mouvement collectif, et la réimagination de l'espace entre nous comme un « fascia social virtuel » — dansant dans le seuil pervers entre l'enchevêtrement physique et numérique.",
-    "flesh-p1":               "*En développement",
+    "flesh-body-header":      "Flesh-Nexus, Human Sword mêle méditations en mouvement et capacités logiques de l'IA générative pour créer des partitions chorégraphiques, fusionnant logique numérique et pratique somatique afin d'explorer l'interconnexion et le mouvement collectif. En réimaginant l'espace qui nous sépare comme un « fascia social virtuel », Flesh-Nexus, Human Sword évolue sur le seuil paradoxal de l'enchevêtrement physique et numérique.",
+    "flesh-p1":               "Soutenez la recherche ici",
     // "flesh-p2":               "Collaboration créative/regard extérieur : Katie Ward",
     // "flesh-p3":               "Dramaturgie/consultation sonore : Jassem Hindi",
     // "flesh-p4":               "Interprètes :",
 
     // --- STUDIES IN VIRTUALITY ---
     "studies-header":         "Études en Virtualité (wip)",
-    "studies-body-header":    "En expérimentant avec des formes de simulation dans divers médias, Études en Virtualité explore la mort et le mourir à travers une expérience vivante de la virtualité — traitant les immatérialités ordinaires comme des fenêtres discrètes sur l'au-delà.",
+    "studies-body-header":    "Études en Virtualité explore la mort et le mourir à travers l'expérimentation de la simulation dans divers médias — traitant les immatérialités ordinaires comme des fenêtres discrètes sur l'au-delà.",
     "studies-p1":             "Direction, chorégraphie: Simon Portigal",
     "studies-p2":             "Collaborateurs: Justin de Luna, Jeremy Hervieux, Timothy Thomasson",
     "studies-p3":             "Ce projet a bénéficié de résidences à Parbleux et au Studio 303.",

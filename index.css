@@ -760,6 +760,20 @@ a.work_card2:hover{
     padding: .5em 0em 0em;
 }
 
+.flesh_body a{
+    color: #aa040e;
+    text-decoration: none;
+}
+
+.flesh_body a:visited{
+    color: #aa040e;
+    text-decoration: none;
+}
+
+.flesh_body a:hover{
+    text-decoration: underline;
+}
+
 
 /* ================================== */
 /* ===========SUPPORT================ */
