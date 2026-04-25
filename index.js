@@ -103,7 +103,7 @@ const translations = {
     "about-h3":         "I'm Simon Portigal, a contemporary dance artist based in Montréal with a research-based choreographic practice.",
     "about-p1":         "My work adopts a dense, multifaceted structure shaped by my lived experience as a queer, first-generation child of the internet and \"third culture kid\" raised overseas, as well as my academic training in post-modern Western concert dance. Through these lenses, I investigate the body's entanglement with identity, borders, thresholds, movement, and digitality, drawing on references that range across 2SLGBTQIA+ and popular cultures, post-internet aesthetics, animation, reality television, cinema, and video games. I situate these influences within the broader choreographic histories and theoretical frameworks that shape my practice, asking how the body negotiates conflict, contradiction, and multiplicity — and how to move through the world at the intersection of cultural displacement, digital technology, and queerness.",
     "about-p2":         "Trained at L'EDCMTL and then at PARTS, I began my performance career at Dancemakers in 2012 under the direction of Michael Trent, and have been based in Montréal as an independent performer and choreographer since 2015. In 2017, I was awarded a danceWEB Scholarship to attend the ImPulsTanz Festival in Vienna.",
-    "about-p3":         "My evening-length, iterative solo limbic cum rag was developed through residencies at Dancemakers, Danse Danse Révolution, the Third Floor Residency, and Montréal, Arts Interculturels (MAI), and has been shown at the MAI, SummerWorks Performance Festival, Performance Mix Festival, and the OFFTA. My first group work, fragile & useless, was developed through residencies at The Stable, LA SERRE – arts vivants, and La Chapelle Scènes Contemporaines; it premiered as a co-presentation by La Chapelle and the MAI, with an excerpt also shown as part of Fierté Montréal's out-of-season programming.",
+    "about-p3":         "My iterative solo limbic cum rag was developed through residencies at Dancemakers, Danse Danse Révolution, the Third Floor Residency, and Montréal, Arts Interculturels (MAI), and has been shown at the MAI, SummerWorks Performance Festival, Performance Mix Festival, and the OFFTA. My first group work, fragile & useless, was developed through residencies at The Stable, LA SERRE – arts vivants, and La Chapelle Scènes Contemporaines; it premiered as a co-presentation by La Chapelle and the MAI, with an excerpt also shown as part of Fierté Montréal's out-of-season programming.",
     "about-p4":         "I have performed in and/or contributed to works by Dana Michel, Jassem Hindi, Dancemakers / Michael Trent, Clara Furey, Andrew Tay + Stephen Thompson, Sasha Kleinplatz, Eroca Nicols, Ellen Furey, Public Recordings / Ame Henderson, Benoit Lachambre, Dana Gingras, Adam Kinner, Mårten Spångberg, Benjamin Kamino, Heidi Strauss, Chris Curreri, Annie MacDonell, Zoja Smutny, Amelia Ehrhardt, Brendan Fernandes, Dora Garcia, and Isabel Lewis — a collaborative history that continues to shape how I approach making and performing.",
     "about-p5":         "My work has been shown in Toronto, Montréal, New York, Berlin, and Reykjavik. I'm always looking to expand its reach and connect with new audiences, presenters, and collaborators.",
     "about-p6":         "If my work resonates with you, your support means a great deal — and you can contribute <a href=\"support.html\"><b>here</b></a>!",
@@ -118,7 +118,7 @@ const translations = {
     "choreo-flesh-title":    "Flesh-Nexus, Human Sword",
     "choreo-flesh-desc":     "Dancing interconnection in the threshold between physical-digital entanglement.",
     "choreo-studies-title":  "Studies in Virtuality",
-    "choreo-studies-desc":   "A collaborative multimedia project experimenting with forms of simulation.",
+    "choreo-studies-desc":   "A collaborative multimedia project experimenting with simulation as an actual bridge to the immaterial.",
     "choreo-paradise-title": "Paradise",
     "choreo-paradise-desc":  "A rules-based choreographic score exploring themes of collective survival under contemporary capitalism.",
 
@@ -214,7 +214,7 @@ const translations = {
     "choreo-flesh-title":    "Flesh-Nexus, Human Sword",
     "choreo-flesh-desc":     "Interconnexion dansante au seuil de l'enchevêtrement physique et numérique.",
     "choreo-studies-title":  "Études en Virtualité",
-    "choreo-studies-desc":   "Un projet multimédia collaboratif expérimentant avec de la simulation.",
+    "choreo-studies-desc":   "Un projet multimédia collaboratif expérimentant la simulation comme véritable pont vers l'immatériel..",
     "choreo-paradise-title": "Paradis",
     "choreo-paradise-desc":  "Une partition chorégraphique à règles explorant les thèmes de la survie collective sous le capitalisme contemporain.",
 
