@@ -104,7 +104,7 @@ const translations = {
     "about-p1":         "My work adopts a dense, multifaceted structure shaped by my lived experience as a queer, first-generation child of the internet and \"third culture kid\" raised overseas, as well as my academic training in post-modern Western concert dance. Through these lenses, I investigate the body's entanglement with identity, borders, thresholds, movement, and digitality, drawing on references that range across 2SLGBTQIA+ and popular cultures, post-internet aesthetics, animation, reality television, cinema, and video games. I situate these influences within the broader choreographic histories and theoretical frameworks that shape my practice, asking how the body negotiates conflict, contradiction, and multiplicity — and how to move through the world at the intersection of cultural displacement, digital technology, and queerness.",
     "about-p2":         "Trained at L'EDCMTL and then at PARTS, I began my performance career at Dancemakers in 2012 under the direction of Michael Trent, and have been based in Montréal as an independent performer and choreographer since 2015. In 2017, I was awarded a danceWEB Scholarship to attend the ImPulsTanz Festival in Vienna.",
     "about-p3":         "My evening-length, iterative solo limbic cum rag was developed through residencies at Dancemakers, Danse Danse Révolution, the Third Floor Residency, and Montréal, Arts Interculturels (MAI), and has been shown at the MAI, SummerWorks Performance Festival, Performance Mix Festival, and the OFFTA. My first group work, fragile & useless, was developed through residencies at The Stable, LA SERRE – arts vivants, and La Chapelle Scènes Contemporaines; it premiered as a co-presentation by La Chapelle and the MAI, with an excerpt also shown as part of Fierté Montréal's out-of-season programming.",
-    "about-p4":         "I have performed in and contributed to works by Dana Michel, Jassem Hindi, Dancemakers / Michael Trent, Clara Furey, Andrew Tay + Stephen Thompson, Sasha Kleinplatz, Eroca Nicols, Ellen Furey, Public Recordings / Ame Henderson, Benoit Lachambre, Adam Kinner, Mårten Spångberg, Benjamin Kamino, Heidi Strauss, Chris Curreri, Annie MacDonell, Zoja Smutny, Amelia Ehrhardt, Brendan Fernandes, Dora Garcia, and Isabel Lewis — a collaborative history that continues to shape how I approach making and performing.",
+    "about-p4":         "I have performed in and/or contributed to works by Dana Michel, Jassem Hindi, Dancemakers / Michael Trent, Clara Furey, Andrew Tay + Stephen Thompson, Sasha Kleinplatz, Eroca Nicols, Ellen Furey, Public Recordings / Ame Henderson, Benoit Lachambre, Dana Gingras, Adam Kinner, Mårten Spångberg, Benjamin Kamino, Heidi Strauss, Chris Curreri, Annie MacDonell, Zoja Smutny, Amelia Ehrhardt, Brendan Fernandes, Dora Garcia, and Isabel Lewis — a collaborative history that continues to shape how I approach making and performing.",
     "about-p5":         "My work has been shown in Toronto, Montréal, New York, Berlin, and Reykjavik. I'm always looking to expand its reach and connect with new audiences, presenters, and collaborators.",
     "about-p6":         "If my work resonates with you, your support means a great deal — and you can contribute <a href=\"support.html\"><b>here</b></a>!",
 
@@ -132,17 +132,17 @@ const translations = {
     "fragile-p5":             "Outside-eye/Rehearsal Direction: Sasha Kleinplatz",
     "fragile-p6":             "Stage Management: Michael Martini",
     "fragile-p7":             "Movement Research: Hanako Hoshimi-Caines, Nathan Yaffe, Winnie Ho, Scott McCabe, Zoe Vos, Paige Culley, Justin de Luna, Sovann Prom Tep, Louise-Michel Jackson, Emile Pineault",
-    "fragile-p8":             "Thanks to Lara Oundjian, Sebastian Kann, and Dana Gingras",
+    "fragile-p8":             "Thanks to Lara Oundjian, Sebastian Kann, Dana Gingras / The Stable, and LA SERRE - art vivants.",
     "fragile-p9":             "Created with the support of Montreal, arts interculturels and La Chapelle Scènes Contemporaines",
     "fragile-p10":            "Made possible by funds from the Canada Council for the Arts and le Conseil des Art et Lettres du Québec",
 
     // --- LIMBIC CUM RAG ---
     "limbic-header":          "limbic cum rag (2015-2019)",
-    "limbic-body-header":     "An iterative performance, limbic cum rag uses the green-screen as a conceptual framework to explore how a performer's body becomes a site of projection - both literally and figuratively.",
+    "limbic-body-header":     "An iterative solo performance, limbic cum rag uses the green-screen as a conceptual framework to explore a performer's body as a site of projection - both literally and figuratively.",
     "limbic-p1":              "Direction, Choreography, Performance, Video, Sound Design: Simon Portigal",
     "limbic-p2":              "Light Design: Tim Rodrigues, Hugo Dalphond",
-    "limbic-p3":              "Thanks to Ellen Furey, Dana Michel, Andrew Tay, Sasha Kleinplatz, Summerworks Performance Festival, OFFTA",
-    "limbic-p4":              "Created with the support of Montreal, arts interculturels",
+    "limbic-p3":              "Thanks to Ellen Furey, Dana Michel, Andrew Tay, Christopher Willes, Dancemakers, and the Third Floor Residency",
+    "limbic-p4":              "Created with the support of Montréal, arts interculturels",
 
     // --- FLESH-NEXUS ---
     "flesh-header":           "Flesh-Nexus, Human Sword (wip)",
@@ -200,7 +200,7 @@ const translations = {
     "about-p1":         "Mon travail adopte une structure complexe et multifacette, façonnée par mon vécu en tant que personne queer, enfant de première génération de l'internet et « enfant de troisième culture » élevé à l'étranger, ainsi que par ma formation académique en danse de concert postmoderne occidentale. À travers ces prismes, j'explore l'enchevêtrement du corps avec l'identité, les frontières, les seuils, le mouvement et le numérique — puisant dans des références qui s'étendent aux cultures 2SLGBTQIA+ et populaires, à l'esthétique post-internet, à l'animation, à la télé-réalité, au cinéma et aux jeux vidéo. Je situe ces influences dans le cadre plus large des histoires chorégraphiques et des cadres théoriques qui façonnent ma pratique, en me demandant comment le corps négocie le conflit, la contradiction et la multiplicité — et comment avancer dans le monde à l'intersection du déplacement culturel, de la technologie numérique, et du queer.",
     "about-p2":         "Formé à l'EDCMTL puis à P.A.R.T.S., j'ai débuté ma carrière de performeur chez Dancemakers en 2012 sous la direction de Michael Trent, et je suis basé à Montréal en tant que performeur et chorégraphe indépendant depuis 2015. En 2017, j'ai reçu une bourse danceWEB pour participer au Festival ImPulsTanz à Vienne.",
     "about-p3":         "Mon solo itératif limbic cum rag a été développé lors de résidences à Dancemakers, Dance Danse Révolution, la Third Floor Residency et Montréal, Arts Interculturels (MAI), et a été présenté au MAI, au Festival de performance SummerWorks, au Performance Mix Festival et à l'OFFTA. Mon premier travail de groupe, fragile & useless, a été développé lors de résidences à The Stable, LA SERRE – arts vivants et La Chapelle Scènes Contemporaines; il a été créé en coprésentation par La Chapelle et le MAI, avec un extrait également présenté dans le cadre de la programmation hors-saison de Fierté Montréal.",
-    "about-p4":         "J'ai performé et contribué à des œuvres de Dana Michel, Jassem Hindi, Dancemakers / Michael Trent, Clara Furey, Andrew Tay + Stephen Thompson, Sasha Kleinplatz, Eroca Nicols, Ellen Furey, Public Recordings / Ame Henderson, Benoit Lachambre, Adam Kinner, Mårten Spångberg, Benjamin Kamino, Heidi Strauss, Chris Curreri, Annie MacDonell, Zoja Smutny, Amelia Ehrhardt, Brendan Fernandes, Dora Garcia et Isabel Lewis — une histoire collaborative qui continue de façonner ma façon d'aborder la création et la performance.",
+    "about-p4":         "J'ai performé et/ou contribué à des œuvres de Dana Michel, Jassem Hindi, Dancemakers / Michael Trent, Clara Furey, Andrew Tay + Stephen Thompson, Sasha Kleinplatz, Eroca Nicols, Ellen Furey, Public Recordings / Ame Henderson, Benoit Lachambre, Dana Gingras, Adam Kinner, Mårten Spångberg, Benjamin Kamino, Heidi Strauss, Chris Curreri, Annie MacDonell, Zoja Smutny, Amelia Ehrhardt, Brendan Fernandes, Dora Garcia et Isabel Lewis — une histoire collaborative qui continue de façonner ma façon d'aborder la création et la performance.",
     "about-p5":         "Mon travail a été présenté à Toronto, Montréal, New York, Berlin et Reykjavik. Je cherche toujours à élargir sa portée et à me connecter avec de nouveaux publics, diffuseurs, et collaborateurs.",
     "about-p6":         "Si mon travail vous touche, votre soutien compte beaucoup — et vous pouvez contribuer <a href=\"support.html\"><b>ici</b></a>!",
 
@@ -228,16 +228,16 @@ const translations = {
     "fragile-p5":             "Regard extérieur/direction de répétition : Sasha Kleinplatz",
     "fragile-p6":             "Régie de scène : Michael Martini",
     "fragile-p7":             "Recherche en mouvement : Hanako Hoshimi-Caines, Nathan Yaffe, Winnie Ho, Scott McCabe, Zoe Vos, Paige Culley, Justin de Luna, Sovann Prom Tep, Louise-Michel Jackson, Emile Pineault",
-    "fragile-p8":             "Remerciements à Lara Oundjian, Sebastian Kann et Dana Gingras",
+    "fragile-p8":             "Remerciements à Lara Oundjian, Sebastian Kann, Dana Gingras / The Stable, et LA SERRE - art vivants",
     "fragile-p9":             "Créé avec le soutien de Montréal, arts interculturels et La Chapelle Scènes Contemporaines",
     "fragile-p10":            "Rendu possible grâce au Conseil des arts du Canada et au Conseil des arts et des lettres du Québec",
 
     // --- LIMBIC CUM RAG ---
     "limbic-header":          "limbic cum rag (2015-2019)",
-    "limbic-body-header":     "Performance itérative, limbic cum rag utilise l'écran vert comme cadre conceptuel pour explorer comment le corps du performeur devient un site de projection — à la fois littéralement et figurativement.",
+    "limbic-body-header":     "Une performance solo itérative, limbic cum rag utilise l'écran vert comme cadre conceptuel pour explorer le corps du performeur comme site de projection — à la fois littéralement et figurativement.",
     "limbic-p1":              "Direction, chorégraphie, interprétation, vidéo, conception sonore : Simon Portigal",
     "limbic-p2":              "Conception lumières : Tim Rodrigues, Hugo Dalphond",
-    "limbic-p3":              "Remerciements à Ellen Furey, Dana Michel, Andrew Tay, Sasha Kleinplatz, Summerworks Performance Festival, OFFTA",
+    "limbic-p3":              "Remerciements à Ellen Furey, Dana Michel, Andrew Tay, Christopher Willes, Dancemakers, et Third Floor Residency",
     "limbic-p4":              "Créé avec le soutien de Montréal, arts interculturels",
 
     // --- FLESH-NEXUS ---
