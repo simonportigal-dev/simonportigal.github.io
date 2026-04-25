@@ -321,6 +321,10 @@
 
 
     /* --- LANDING PAGE --- */
+    .i_body{
+    max-height: 100vh;
+    }
+
     .header_name {
         font-size: 9vw;
     }
