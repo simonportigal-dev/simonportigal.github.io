@@ -112,7 +112,7 @@ const translations = {
     "choreo-header-past":    "Works",
     "choreo-header-wip":     "Works-In-Progress",
     "choreo-fragile-title":  "fragile & useless",
-    "choreo-fragile-desc":   "fragile & useless imagines a contemporary folk dance made in and of the era of hyperdigitization.",
+    "choreo-fragile-desc":   "Imagines a contemporary folk dance made in and of the era of hyperdigitization.",
     "choreo-limbic-title":   "limbic cum rag",
     "choreo-limbic-desc":    "Explores the performer's body as a site of projection.",
     "choreo-flesh-title":    "Flesh-Nexus, Human Sword",
@@ -147,7 +147,7 @@ const translations = {
     // --- FLESH-NEXUS ---
     "flesh-header":           "Flesh-Nexus, Human Sword (wip)",
     "flesh-body-header":      "Flesh-Nexus, Human Sword mixes movement meditations with the logical capacities of generative AI to construct movement scores, blending digital logic and somatic practice to explore interconnectedness and collective movement. Reimagining the space between us as a \"virtual social fascia\", Flesh-Nexus, Human Sword dances in the perverse threshold between physical and digital entanglement.",
-    "flesh-support":          "Support the research <a href=\"support.html\"><b>here</b></a>.",
+    "flesh-support":          "Support our first research residency <a href=\"support.html\"><b>here</b></a>.",
     // "flesh-p2":               "Creative Collaboration/Outside-eye: Katie Ward",
     // "flesh-p3":               "Dramaturgy/Sound Consultation: Jassem Hindi",
     // "flesh-p4":               "Interpreters:",
@@ -155,8 +155,8 @@ const translations = {
     // --- STUDIES IN VIRTUALITY ---
     "studies-header":         "Studies in Virtuality (wip)",
     "studies-body-header":    "Studies in Virtuality explores death and dying through experimentation with simulation in various media - treating ordinary immaterialities as inconspicuous windows to the afterlife.",
-    "studies-p1":             "Direction, Choreography: Simon Portigal",
-    "studies-p2":             "Collaborators: Justin de Luna, Jeremy Hervieux, Timothy Thomasson",
+    // "studies-p1":             "Direction, Choreography: Simon Portigal",
+    // "studies-p2":             "Collaborators: Justin de Luna, Jeremy Hervieux, Timothy Thomasson",
     "studies-p3":             "This project has currently benefitted from residencies at Parbleux and Studio 303.",
 
     // --- PARADISE PAGE ---
@@ -172,7 +172,7 @@ const translations = {
     "support-header-funding":   "Project Funding",
     "support-header-ongoing":   "Ongoing Support",
     "support-header-social":    "Social Support",
-    "support-p-flesh":          "Help support a week-long research residency for a new group work titled Flesh-Nexus, Human Sword <a href=\"\" target=\"_blank\">here</a>.",
+    "support-p-flesh":          "Help support a week-long research residency for a new group work titled Flesh-Nexus, Human Sword <a href=\"https://fnd.us/62iH00?ref=sh_5Eszl7\" target=\"_blank\">here</a>.",
     "support-p-ongoing":        "Help support my ongoing capacity to continue my choreographic practice, pursue my educational goals, and attain my financial goals as an artist <a href=\"https://ko-fi.com/simonportigal\" target=\"_blank\">here</a>.",
     "support-p-social":         "If you'd prefer to direct your support elsewhere, please consider these organizations:",
   },
@@ -208,7 +208,7 @@ const translations = {
     "choreo-header-past":    "Œuvres",
     "choreo-header-wip":     "Travaux en cours",
     "choreo-fragile-title":  "fragile & inutile",
-    "choreo-fragile-desc":   "fragile & inutile imagine une danse folklorique contemporaine créée dans et de l'ère de l'hyperdigitalisation.",
+    "choreo-fragile-desc":   "Imagine une danse folklorique contemporaine créée dans et de l'ère de l'hyperdigitalisation.",
     "choreo-limbic-title":   "limbic cum rag",
     "choreo-limbic-desc":    "Explore le corps du performeur comme site de projection.",
     "choreo-flesh-title":    "Flesh-Nexus, Human Sword",
@@ -243,7 +243,7 @@ const translations = {
     // --- FLESH-NEXUS ---
     "flesh-header":           "Flesh-Nexus, Human Sword (wip)",
     "flesh-body-header":      "Flesh-Nexus, Human Sword mêle méditations en mouvement et capacités logiques de l'IA générative pour créer des partitions chorégraphiques, fusionnant logique numérique et pratique somatique afin d'explorer l'interconnexion et le mouvement collectif. En réimaginant l'espace qui nous sépare comme un « fascia social virtuel », Flesh-Nexus, Human Sword évolue sur le seuil paradoxal de l'enchevêtrement physique et numérique.",
-    "flesh-p1":               "Soutenez la recherche ici",
+    "flesh-support":           "Soutenez notre première résidence de recherche <a href=\"support.html\"><b>ici</b></a>.",
     // "flesh-p2":               "Collaboration créative/regard extérieur : Katie Ward",
     // "flesh-p3":               "Dramaturgie/consultation sonore : Jassem Hindi",
     // "flesh-p4":               "Interprètes :",
@@ -251,8 +251,8 @@ const translations = {
     // --- STUDIES IN VIRTUALITY ---
     "studies-header":         "Études en Virtualité (wip)",
     "studies-body-header":    "Études en Virtualité explore la mort et le mourir à travers l'expérimentation de la simulation dans divers médias — traitant les immatérialités ordinaires comme des fenêtres discrètes sur l'au-delà.",
-    "studies-p1":             "Direction, chorégraphie: Simon Portigal",
-    "studies-p2":             "Collaborateurs: Justin de Luna, Jeremy Hervieux, Timothy Thomasson",
+    // "studies-p1":             "Direction, chorégraphie: Simon Portigal",
+    // "studies-p2":             "Collaborateurs: Justin de Luna, Jeremy Hervieux, Timothy Thomasson",
     "studies-p3":             "Ce projet a bénéficié de résidences à Parbleux et au Studio 303.",
 
     // --- PARADISE PAGE ---
@@ -268,7 +268,7 @@ const translations = {
     "support-header-funding":   "Financement de projets",
     "support-header-ongoing":   "Soutien continu",
     "support-header-social":    "Soutien communautaire",
-    "support-p-flesh":          "Aidez à financer une résidence de recherche d'une semaine pour une nouvelle œuvre de groupe intitulée Flesh-Nexus, Human Sword <a href=\"\" target=\"_blank\">ici</a>.",
+    "support-p-flesh":          "Aidez à financer une résidence de recherche d'une semaine pour une nouvelle œuvre de groupe intitulée Flesh-Nexus, Human Sword <a href=\"https://fnd.us/62iH00?ref=sh_5Eszl7\" target=\"_blank\">ici</a>.",
     "support-p-ongoing":        "Aidez à soutenir ma capacité continue de poursuivre ma pratique chorégraphique, mes objectifs éducatifs et mes objectifs financiers en tant qu'artiste <a href=\"https://ko-fi.com/simonportigal\" target=\"_blank\">ici</a>.",
     "support-p-social":         "Si vous préférez orienter votre soutien vers d'autres organisations, veuillez considérer celles-ci:",
   }
